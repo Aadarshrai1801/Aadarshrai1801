@@ -1,3 +1,13 @@
+![Header](./Banner.png)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarshrai1801/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshrai1801@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarshrai1801)
+
+</div>
+
 # About Me
 
 I am an aspiring **AI and Machine Learning Engineer** focused on building practical, production-oriented machine learning systems and intelligent applications. My experience spans machine learning, deep learning, NLP, computer vision, data engineering, web development, and model deployment.
@@ -73,16 +83,6 @@ I specialize in developing end-to-end solutions—from data collection and prepr
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div align="center">
-    <p><i>Building intelligence into architecture.</i></p>
-</div>
-
-## 🌐 Connect With Me
-
-* **GitHub:** [Aadarshrai1801](https://github.com/Aadarshrai1801)
-* **LinkedIn:** [Aadarsh Rai](https://www.linkedin.com/in/aadarshrai1801)
-
----
 
 ## GitHub Activity
 
