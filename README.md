@@ -48,20 +48,6 @@ I specialize in developing end-to-end solutions—from data collection and prepr
   * Provides an interactive conversational interface for users through Streamlit.
   * Delivers informative, accessible, and contextually relevant healthcare guidance.
 
-### [Vendor Invoice Intelligent System](https://github.com/Aadarshrai1801/Vendor-Invoice-Intelligent-System)
-
-**Automated Invoice Processing & Prediction System**
-
-* **Core Technology**: Python, Scikit-learn, Streamlit, Pandas, SQLite
-* **Description**: An intelligent invoice-processing application designed to extract, process, and analyze vendor invoice information while supporting machine learning-based prediction.
-* **Key Features**:
-
-  * Processes structured and semi-structured vendor invoice data.
-  * Integrates machine learning models into an interactive Streamlit application.
-  * Uses data preprocessing and feature engineering pipelines for model inference.
-  * Supports database-backed inventory and invoice workflows.
-  * Provides an accessible interface for interacting with trained ML models.
-
 ### [QuickShow](https://github.com/Aadarshrai1801/QuickShow)
 
 **Full-Stack Movie Ticket Booking Platform**
@@ -79,28 +65,17 @@ I specialize in developing end-to-end solutions—from data collection and prepr
 ## Technical Proficiency
 
 **Languages**
-
-`Python` · `JavaScript` · `SQL` · `HTML` · `CSS`
-
-**Machine Learning & AI**
-
-`Scikit-learn` · `TensorFlow` · `Pandas` · `NumPy` · `XGBoost` · `CatBoost` · `OpenCV` · `PaddleOCR`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
-`Flask` · `FastAPI` · `Streamlit` · `React` · `Node.js` · `Express` · `Playwright` · `MLflow`
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Databases & Data**
-
-`MongoDB` · `MySQL` · `SQLite` · `Pandas` · `NumPy`
-
-**MLOps & Infrastructure**
-
-`MLflow` · `DagsHub` · `Docker` · `Git` · `GitHub` · `AWS` · `Render` · `Vercel`
-
-**Areas of Interest**
-
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `Data Engineering` · `Web Development` · `Automation` · `Model Deployment`
+<div align="center">
+    <p><i>Building intelligence into architecture.</i></p>
+</div>
 
 ## 🌐 Connect With Me
 
