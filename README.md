@@ -22,7 +22,7 @@ I specialize in developing end-to-end solutions—from data collection and prepr
   * Implements price-change tracking to identify increases and decreases over time.
   * Designed with deployment constraints in mind, including browser automation and memory optimization for cloud environments.
 
-### Plantix
+### [Plantix](https://github.com/Aadarshrai1801/Plantix)
 
 **AI-Powered Plant Disease Detection System**
 
@@ -34,22 +34,21 @@ I specialize in developing end-to-end solutions—from data collection and prepr
   * Uses GPU-accelerated training workflows for computationally intensive deep learning workloads.
   * Designed as an end-to-end pipeline from image preprocessing through model inference.
 
-### Network Security ML
+### [IntelliCast](https://github.com/Aadarshrai1801/Intellicast)
 
-**Machine Learning-Based Network Threat Detection System**
+**AI-Powered Medical Chatbot & Healthcare Assistant**
 
-* **Core Technology**: Python, Scikit-learn, MongoDB, FastAPI, MLflow, DagsHub
-* **Description**: An end-to-end machine learning system for detecting and classifying potentially malicious network activity.
-* **Key Features**:
+- **Core Technology**: Python, NLP, Large Language Models, RAG, Streamlit, Vector Database
+- **Description**: An intelligent medical chatbot designed to provide users with conversational healthcare information by understanding natural-language queries and retrieving relevant medical knowledge.
+- **Key Features**:
+  
+  * Uses NLP and LLM-based techniques to understand and respond to medical queries.
+  * Implements Retrieval-Augmented Generation (RAG) for context-aware and knowledge-grounded responses.
+  * Integrates a medical knowledge base with semantic search for relevant information retrieval.
+  * Provides an interactive conversational interface for users through Streamlit.
+  * Delivers informative, accessible, and contextually relevant healthcare guidance.
 
-  * Implements a structured data ingestion and preprocessing pipeline for network security datasets.
-  * Trains and evaluates machine learning models for network attack classification.
-  * Uses MLflow for experiment tracking and model management.
-  * Integrates DagsHub for remote experiment and artifact tracking.
-  * Uses MongoDB for dataset and pipeline integration.
-  * Exposes prediction functionality through a FastAPI backend.
-
-### Vendor Invoice Intelligent System
+### [Vendor Invoice Intelligent System](https://github.com/Aadarshrai1801/Vendor-Invoice-Intelligent-System)
 
 **Automated Invoice Processing & Prediction System**
 
@@ -63,7 +62,7 @@ I specialize in developing end-to-end solutions—from data collection and prepr
   * Supports database-backed inventory and invoice workflows.
   * Provides an accessible interface for interacting with trained ML models.
 
-### QuickShow
+### [QuickShow](https://github.com/Aadarshrai1801/QuickShow)
 
 **Full-Stack Movie Ticket Booking Platform**
 
