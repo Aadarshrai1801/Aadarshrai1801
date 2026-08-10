@@ -1,23 +1,115 @@
-# 💫 About Me:
-👋 Hey there! I'm Aadarsh<br><br>💻 I'm currently working on a Python-based data visualization project that helps analyze real-time datasets.<br><br>🤝 I'm looking to collaborate on open-source projects involving web development and automation tools.<br><br>🧠 I'm looking for help with optimizing machine learning models for better accuracy and performance.<br><br>📚 I'm currently learning React, REST APIs, and cloud deployment using AWS.<br><br>💬 Ask me about Python, Flask, pandas, or anything related to coding best practices!<br><br>😄 Fun fact: I once built a game in Python just to teach myself loops and ended up playing it for hours!
+# About Me
 
+I am an aspiring **AI and Machine Learning Engineer** focused on building practical, production-oriented machine learning systems and intelligent applications. My experience spans machine learning, deep learning, NLP, computer vision, data engineering, web development, and model deployment.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadarshrai07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aadarshrai1801)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshrai1801@gmail.com)
+I specialize in developing end-to-end solutions—from data collection and preprocessing to model training, evaluation, API development, and deployment. I have hands-on experience with **Python, TensorFlow, Scikit-learn, Flask, FastAPI, MongoDB, MLflow, Docker, Playwright, and cloud deployment**, with a particular interest in building reliable systems that solve real-world problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aadarshrai1801&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aadarshrai1801&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshrai1801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Selected Projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aadarshrai1801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### [MarketPulse](https://github.com/Aadarshrai1801/market-pulse)
+
+**Real-Time Supermarket Price Intelligence Platform**
+
+* **Core Technology**: Python, Flask, Playwright, MongoDB, JavaScript, HTML/CSS
+* **Description**: A price intelligence platform that collects and analyzes product prices across major UAE supermarkets to help users compare prices and track market trends.
+* **Key Features**:
+
+  * Automates product discovery and price extraction across Carrefour, Lulu, Kibsons, Union Coop, and Barakat.
+  * Uses Playwright-based scraping pipelines to handle dynamic e-commerce websites.
+  * Normalizes product weights and prices into comparable **price-per-kilogram** metrics.
+  * Stores historical pricing data in MongoDB for price tracking and analysis.
+  * Provides APIs for asynchronous scraping jobs, historical data, and product metadata.
+  * Implements price-change tracking to identify increases and decreases over time.
+  * Designed with deployment constraints in mind, including browser automation and memory optimization for cloud environments.
+
+### Plantix
+
+**AI-Powered Plant Disease Detection System**
+
+* **Core Technology**: Python, TensorFlow, Deep Learning
+* **Description**: An intelligent computer system designed to analyze plants images and find disease present in them.
+* **Key Features**:
+
+  * Uses deep learning models for image-based classification and prediction.
+  * Uses GPU-accelerated training workflows for computationally intensive deep learning workloads.
+  * Designed as an end-to-end pipeline from image preprocessing through model inference.
+
+### Network Security ML
+
+**Machine Learning-Based Network Threat Detection System**
+
+* **Core Technology**: Python, Scikit-learn, MongoDB, FastAPI, MLflow, DagsHub
+* **Description**: An end-to-end machine learning system for detecting and classifying potentially malicious network activity.
+* **Key Features**:
+
+  * Implements a structured data ingestion and preprocessing pipeline for network security datasets.
+  * Trains and evaluates machine learning models for network attack classification.
+  * Uses MLflow for experiment tracking and model management.
+  * Integrates DagsHub for remote experiment and artifact tracking.
+  * Uses MongoDB for dataset and pipeline integration.
+  * Exposes prediction functionality through a FastAPI backend.
+
+### Vendor Invoice Intelligent System
+
+**Automated Invoice Processing & Prediction System**
+
+* **Core Technology**: Python, Scikit-learn, Streamlit, Pandas, SQLite
+* **Description**: An intelligent invoice-processing application designed to extract, process, and analyze vendor invoice information while supporting machine learning-based prediction.
+* **Key Features**:
+
+  * Processes structured and semi-structured vendor invoice data.
+  * Integrates machine learning models into an interactive Streamlit application.
+  * Uses data preprocessing and feature engineering pipelines for model inference.
+  * Supports database-backed inventory and invoice workflows.
+  * Provides an accessible interface for interacting with trained ML models.
+
+### QuickShow
+
+**Full-Stack Movie Ticket Booking Platform**
+
+* **Core Technology**: MERN Stack, React, Node.js, Express, MongoDB
+* **Description**: A full-stack movie ticket booking platform designed to provide users with a streamlined experience for discovering movies and managing bookings.
+* **Key Features**:
+
+  * Implements a modern React-based frontend for browsing and interacting with movie content.
+  * Uses Node.js and Express for backend API development.
+  * Integrates MongoDB for persistent application data.
+  * Implements user-oriented booking and movie management workflows.
+  * Demonstrates full-stack application development from frontend interface to backend services.
+
+## Technical Proficiency
+
+**Languages**
+
+`Python` · `JavaScript` · `SQL` · `HTML` · `CSS`
+
+**Machine Learning & AI**
+
+`Scikit-learn` · `TensorFlow` · `Pandas` · `NumPy` · `XGBoost` · `CatBoost` · `OpenCV` · `PaddleOCR`
+
+**Frameworks & Libraries**
+
+`Flask` · `FastAPI` · `Streamlit` · `React` · `Node.js` · `Express` · `Playwright` · `MLflow`
+
+**Databases & Data**
+
+`MongoDB` · `MySQL` · `SQLite` · `Pandas` · `NumPy`
+
+**MLOps & Infrastructure**
+
+`MLflow` · `DagsHub` · `Docker` · `Git` · `GitHub` · `AWS` · `Render` · `Vercel`
+
+**Areas of Interest**
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `Data Engineering` · `Web Development` · `Automation` · `Model Deployment`
+
+## 🌐 Connect With Me
+
+* **GitHub:** [Aadarshrai1801](https://github.com/Aadarshrai1801)
+* **LinkedIn:** [Aadarsh Rai](https://www.linkedin.com/in/aadarshrai1801)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aadarshrai1801&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Activity
+
+I use GitHub to document and build projects across **machine learning, artificial intelligence, web development, automation, and data-driven applications**. My repositories focus on practical implementations and end-to-end systems rather than isolated experiments.
