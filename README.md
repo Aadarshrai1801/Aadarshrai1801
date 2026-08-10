@@ -1,4 +1,4 @@
-![Header](./Banner.png)
+![Header](./Github Banner.png)
 
 <div align="center">
 
